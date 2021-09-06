@@ -23,5 +23,4 @@ form.addEventListener("submit", (event) => {
       });
     }
   );
-  console.log(heading);
 });
